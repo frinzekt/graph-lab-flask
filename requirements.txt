@@ -1,2 +1,4 @@
 Flask
 gunicorn
+numpy==1.17.2
+sympy==1.4
